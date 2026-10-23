@@ -81,3 +81,7 @@ Reference guide to the project documentation currently maintained in this reposi
 - Gate 5 and Gate 6 are now primarily external Console/Firebase verification work; in-repo scaffolding and local Android config are present.
 
 When adding a new documentation file, update this index at the same time so links remain accurate.
+
+## License
+
+**License:** These original ClickDungeon planning and policy documents are proprietary commercial materials, **not open source**. Redistribution, modification, and commercial use require written permission from the owner. See [LICENSE](LICENSE).
